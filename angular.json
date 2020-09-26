@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "The-Green-Muscle"
+    }
+  },
+  "defaultProject": "The-Green-Muscle",
+  "cli": {
+    "analytics": "c9ea9686-2e03-4ee2-ba44-23885b4fc6a7"
+  }
 }
